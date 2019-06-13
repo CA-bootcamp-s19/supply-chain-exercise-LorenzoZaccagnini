@@ -10,6 +10,9 @@ To test your implementation start your development blockchain by running `$ truf
 
 If your tests do not pass, modify the contract, recompile, redeploy and retest. Iterate until all of the tests pass.
 
+## All tests passed
+![tests](tests_img.png)
+
 ## A note on testing
 
 Check out the testing files to see how tests are implemented in Javascript. We will go over the details of implementing tests later in the course.
